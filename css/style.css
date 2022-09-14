@@ -293,12 +293,15 @@ section{
     text-decoration: none;
     list-style: none;
 }
-.footerSec a{
+.footerSec li, .footerSec a{
     text-decoration: none;
-    color: black;
+    color: gray;
 }
 #recommanded .cardImg img{
     max-height: 250px;
     min-height: 250px;
+}
+.ourTeamMembers img {
+    padding: 5%;
 }
 
